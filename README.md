@@ -83,6 +83,8 @@ The *Waterfall Model* was chosen for its structured and sequential approach, whi
   - *Low-Level Design (LLD)*:
     - Detailed algorithms for grade calculation.
     - Security features like hashed passwords and session management.
+      
+      ![UML_sami](https://github.com/user-attachments/assets/bbeec9dd-654f-4549-8c26-ee9338523234)
 
 ---
 
